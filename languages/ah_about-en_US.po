@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AH About Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-16 19:11+0000\n"
+"PO-Revision-Date: 2017-01-16 19:11+0000\n"
+"Last-Translator: Andreas Hecht <office@andreas-hecht.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+#: ah-about-widget.php:74
+msgid "AH About Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Zeigt eine \"Über mich\" Box mit dem Gravatar und der Beschreibung der "
+"Autoren-Bio in der Sidebar oder dem Footer an."
+msgstr ""
+"Displays a \"About me\" box with the author's gravatar and description in "
+"the sidebar or footer."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/ah-about-widget/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Andreas Hecht"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://andreas-hecht.com"
+msgstr ""
+
+#: ah-about-widget.php:60
+msgid "Weiter lesen"
+msgstr "Read more"
+
+#: ah-about-widget.php:65
+msgid ""
+"Zeigt eine kleine \"Über mich\" Box mit dem Autor-Gravatar in der Sidebar an."
+msgstr ""
+"Displays a \"About me\" box with the author's gravatar and description in "
+"the sidebar or footer."
+
+#: ah-about-widget.php:124
+msgid "Titel"
+msgstr "Title"
+
+#: ah-about-widget.php:128
+msgid ""
+"Wähle einen User aus. Die E-Mail Adresse dieses Accounts wird genutzt, um "
+"das Gravatar Bild anzuzeigen. Wenn Du keinen Gravatar hast, besorge Dir "
+"einen unter: <a href=\"https://de.gravatar.com/\">Gravatar.com</a>. "
+msgstr ""
+"Select a user. The e-mail address of this account is used to display the "
+"gravatar image. If you do not have a gravatar, get it at: <a href=\"https:"
+"//gravatar.com/\"> Gravatar.com </a>."
+
+#: ah-about-widget.php:132
+msgid "Gravatar Größe"
+msgstr "Gravatar Size"
+
+#: ah-about-widget.php:135
+msgid "Klein"
+msgstr "Small"
+
+#: ah-about-widget.php:135
+msgid "Mittel"
+msgstr "Medium"
+
+#: ah-about-widget.php:135
+msgid "Groß"
+msgstr "Big"
+
+#: ah-about-widget.php:135
+msgid "Sehr Groß"
+msgstr "Very large"
+
+#: ah-about-widget.php:143
+msgid "Gravatar Ausrichtung"
+msgstr "Gravatar alignment"
+
+#: ah-about-widget.php:145 ah-about-widget.php:157
+msgid "Keine"
+msgstr "None"
+
+#: ah-about-widget.php:146
+msgid "Links"
+msgstr "Left"
+
+#: ah-about-widget.php:147
+msgid "Rechts"
+msgstr "Right"
+
+#: ah-about-widget.php:150
+msgid "Widget Text / Autor Bio"
+msgstr "Widget Text / Author Bio"
+
+#: ah-about-widget.php:152
+msgid ""
+"Den Text über Dich, der in diesem Widget angezeigt wird, sind die "
+"biographischen Angaben in Deinem Userprofil. Bitte fülle daher Dein "
+"Userprofil aus. (Benutzer => Dein Profil)."
+msgstr ""
+"The text about you displayed in this widget is the biographical information "
+"in your user profile. Please fill in your user profile. (User => your "
+"profile)."
+
+#: ah-about-widget.php:154
+msgid "Link zu Deiner Über mich Seite"
+msgstr "Link to your \"About me\" page"
+
+#: ah-about-widget.php:156
+msgid ""
+"Wähle Deine \"Über mich\" Seite aus der Liste unten aus. Diese Seite wird "
+"durch das \"Über mich\" Widget verlinkt. <br />"
+msgstr ""
+"Please select your \"About me\" page from the list below. This page is "
+"linked from the \"About\" widget. <br />"
+
+#: ah-about-widget.php:160
+msgid "Der Text für den Link am Ende des \"Über mich\" Widgets."
+msgstr "The text for the link at the end of the \"About Me\" widget."

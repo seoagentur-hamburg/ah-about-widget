@@ -1,0 +1,55 @@
+/**
+ * AH About me Widget - CSS
+ */
+
+.about-widget {
+    padding: 20px;
+    background: #fafafa !important;
+    border: 1px solid #ddd !important;
+    margin: auto;
+}
+.user-profile .widget-title {
+    text-align: center !important;
+    display: block;
+}
+.user-profile p {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -epub-hyphens: auto;
+    hyphens: auto;
+}
+.user-profile span#about-gravatar {
+    position: relative;
+    top: 5px;
+}
+.user-profile span#about-gravatar.alignleft {
+    float: left;
+    padding: 0 8px 5px 0;
+}
+.user-profile span#about-gravatar.alignright {
+    float: right;
+    padding: 0 0 5px 8px;
+}
+.user-profile span#about-gravatar.alignnone {
+    text-align: center;
+    float: none;
+    display: block;
+}
+.user-profile span#about-gravatar.alignnone img.avatar-125 {
+    width: 125px;
+    height: 125px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    border-radius: 50% !important;
+    margin-bottom: 25px !important;
+}
+.user-profile a.aboutme-link {
+    color: red;
+    padding-top: 10px;
+}
+.user-profile a.aboutme-link:hover {
+    color: #222;
+}
