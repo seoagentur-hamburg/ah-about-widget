@@ -4,7 +4,7 @@ Plugin URI:  https://wordpress.org/plugins/ah-about-widget/
 Tags: widget, about, about me, about me widget, profile, user profile, user profile widget
 Requires at least: 4.6
 Tested up to: 4.7.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 Donate link: https://andreas-hecht.com/ah-about-widget/
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -41,6 +41,10 @@ Alignment none plus Gravatar 125px will center the Gravatar and makes him round.
 5. Output screenshot-5.(png).
 
 == Changelog ==
+
+== 1.0.1 ==
+
+* WP 4.8.2 Ready – Stable Version
 
 = 1.0.0 =
 * First release. Stable version.
